@@ -1,0 +1,30 @@
+.fs-4 {
+    font-size: 10rem;
+padding-left: 4%;
+font-family: 'Dancing Script', cursive;
+
+}
+.d-flex {
+    gap: 8px;
+}
+
+.home-btn {
+    background-color: whitesmoke;
+    color: black;
+    outline: solid;
+}
+
+#below-home {
+    background-color: gray;
+}
+
+#services {
+    background-color: gray;
+}
+#testimonials {
+    background-color: white;
+}
+#contact {
+    background-color: gray;
+}
+
